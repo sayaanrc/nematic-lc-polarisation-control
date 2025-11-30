@@ -1,6 +1,6 @@
 # Electro-Optic Polarisation Control Using Nematic Liquid Crystals
 
-This repository contains the Python code developed as part of my research project at **Raman Research Institute (RRI), Bangalore)**.
+This repository contains the Python code developed as part of my research project at **Raman Research Institute (RRI), Bangalore**.
 
 The project was carried out under the supervision of **Prof. Arun Roy**, Liquid Crystal Lab, RRI.
 
