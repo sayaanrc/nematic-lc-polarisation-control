@@ -17,7 +17,7 @@ The objective was to control and analyse laser polarisation states using **nemat
 
 ---
 
-### Technologies Used
+### Used
 
 - Python  
 - NumPy  
